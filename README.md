@@ -1,2 +1,2 @@
 Hello,
-I am Grigor and 20 yrs old and i like cats.
+I am Grigor, 20 yrs old and i like cats.
